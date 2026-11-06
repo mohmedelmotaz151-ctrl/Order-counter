@@ -1,0 +1,12 @@
+{
+  "name":"Order-counter — جامع الطلبات",
+  "short_name":"Order-counter",
+  "description":"سجل طلباتك وتابع الإحصاءات",
+  "lang":"ar",
+  "dir":"rtl",
+  "start_url":"/",
+  "display":"standalone",
+  "background_color":"#f4f6fa",
+  "theme_color":"#10233f",
+  "icons":[{"src":"/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}
